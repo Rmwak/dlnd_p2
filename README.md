@@ -1,3 +1,18 @@
+# DLND_2
+
+Image Classification
+
+Classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. Normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer.
+
+Trained on the floydhub platform.
+
+
+
+
+
+
+
+
 ## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
